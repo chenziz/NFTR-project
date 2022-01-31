@@ -36,7 +36,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-7.将部署后的地址放入config.js文件里的market-contract-address和NFT-contract-address
+7.将部署后的地址替换到config.js文件里的market-contract-address和NFT-contract-address
 
 8.运行前端
 
