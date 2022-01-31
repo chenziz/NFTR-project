@@ -1,4 +1,4 @@
-Quick-Deploy Guidance
+Quick Guide
 
 1.安装nodejs
 2.在NFTR终端里执行
@@ -44,8 +44,10 @@ npx hardhat run scripts/deploy.js --network localhost
 npm run dev
 ```
 
+9.打开localhost:3000(或任何你部署的本地端口)可使用NFTR APP
 
-
-运行成功后，使用手册见
+使用手册见
 
 https://docs.qq.com/doc/DZGVzY0VpS2p2a1RV
+
+如遇任何问题或想了解更多的未来开发计划，请联系huangchen129@gmail.com
