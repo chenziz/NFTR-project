@@ -48,4 +48,4 @@ npm run dev
 
 运行成功后，使用手册见
 
-https://docs.qq.com/doc/DZGVzY0VpS2p2a1RV?
+https://docs.qq.com/doc/DZGVzY0VpS2p2a1RV
